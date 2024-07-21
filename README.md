@@ -9,7 +9,7 @@
 
 📫 How to reach me: You can find me on GitHub or eeyramagbetor@gmail.com
 
-⚡ Fun fact: When I'm not coding, I enjoy listening to music, watching Blacklist and Vikings, or trying out new recipes in the kitchen!
+⚡ Fun fact: When I'm not coding, I enjoy listening to music, and watching mind bending movies.
 
 
 <!---
