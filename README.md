@@ -1,5 +1,5 @@
 -
-👽 Hi, I'm Emmanuel Agbetor, a Mathematical Science student at the University of Ghana.
+👽 Hi, I'm Emmanuel Agbetor, a Computer Science Major at the University of Ghana.
 
 👀 I'm interested in gaining experience in tech and exploring the world of software engineering.
 
