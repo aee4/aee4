@@ -39,4 +39,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aee4/aee4/output/snake.svg" alt="Snake animation" />
+
