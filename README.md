@@ -1,17 +1,15 @@
 <h2 align="left">👽 Hi, I'm Eyram, a Computer Science Major at the University of Ghana.</h2>
 
+👀 I'm interested in collaborating on Web Development and Machine Learning Projects.
+
+🌱 I'm learning full-stack development with FastAPI (Python) and React (TypeScript).                                                                                     
+
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aee4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aee4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-👀 I'm interested in collaborating on Web Development and Machine Learning Projects.
-
-🌱 I'm learning full-stack development with FastAPI (Python) and React (TypeScript).
 
 ###
 
@@ -42,5 +40,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/aee4/aee4/output/snake.svg" alt="Snake animation" />
-
-###
