@@ -3,7 +3,6 @@
 👀 I'm interested in collaborating on Web Development and Machine Learning Projects.
 
 🌱 I'm learning full-stack development with FastAPI (Python) and React (TypeScript)                                                                                  
-
 ###
 
 <div align="left">
