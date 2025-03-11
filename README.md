@@ -1,7 +1,7 @@
 <h2 align="left">👽 Hi, I'm Eyram, a Computer Science Major at the University of Ghana.</h2>
 
 👀 I'm interested in collaborating on Web Development and Machine Learning Projects.
-
+.
 🌱 I'm learning full-stack development with FastAPI (Python) and React (TypeScript)                                                                                  
 ###
 
