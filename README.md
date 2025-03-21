@@ -1,4 +1,4 @@
-<h2 align="left">👽 Hey there, I'm Eyram!</h2>
+<h2 align="left">👽 Hey there, I'm Eyram</h2>
 
 🎓 **Computer Science Major** at the **University of Ghana**  
 🚀 Passionate about **Full-Stack Development** & **Machine Learning**  
