@@ -10,7 +10,6 @@
 - **Backend:** FastAPI, Python  
 - **Frontend:** HTML, CSS, React  
 - **Database:** SQLite  
-- **AI/ML:** Jupyter Notebook, TensorFlow  
 - **Other Tools:** Git, Docker  
 
 <div align="left">
