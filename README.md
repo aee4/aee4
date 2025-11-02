@@ -6,11 +6,12 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### 🧠 Tech Stack  
 - **Backend:** FastAPI, Python  
-- **Frontend:** HTML, CSS, React  
+- **Frontend:** React, HTML, CSS  
 - **Database:** SQLite  
-- **Other Tools:** Git, Docker  
+- **Machine Learning:** PyTorch, TensorFlow, Hugging Face  
+- **DevOps & Tools:** Git, Docker, Vercel, Render
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -24,6 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="hugging face logo" />
 </div>
 
 ---
@@ -32,6 +39,11 @@
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aee4&theme=dracula" height="150" alt="stats graph" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aee4&theme=dracula" height="150" alt="languages graph" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aee4&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aee4&theme=dracula&bg_color=282a36&hide_border=true" height="150" alt="activity graph" />
 </div>
 
 ---
@@ -51,4 +63,4 @@
 
 ---
 
-🚀 **Let’s build something awesome together!** Connect with me via **[LinkedIn](https://www.linkedin.com/in/aee4)** or check out my **[GitHub](https://github.com/aee4)**.  
+🚀 **Let’s build something awesome together!** Connect with me via **[LinkedIn](https://www.linkedin.com/in/aee4)** or check out my **[GitHub](https://github.com/aee4)**.
