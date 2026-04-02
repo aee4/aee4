@@ -8,10 +8,10 @@
 
 ### 🧠 Tech Stack  
 - **Backend:** FastAPI, Python  
-- **Frontend:** React, HTML, CSS  
-- **Database:** SQLite  
+- **Frontend:** React, Tailwind  
+- **Database:** SQLite, Mongodb  
 - **Machine Learning:** PyTorch, TensorFlow, Hugging Face  
-- **DevOps & Tools:** Git, Docker, Vercel, Render
+- **DevOps & Tools:** Git, Docker, Vercel
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
