@@ -7,30 +7,44 @@
 ---
 
 ### 🧠 Tech Stack  
-- **Backend:** FastAPI, Python  
-- **Frontend:** React, Tailwind  
-- **Database:** SQLite, Mongodb  
+- **Backend:** FastAPI, Python, Node.js  
+- **Frontend:** React, TypeScript, Tailwind, Three.js  
+- **Database:** SQLite, MongoDB, MySQL  
 - **Machine Learning:** PyTorch, TensorFlow, Hugging Face  
-- **DevOps & Tools:** Git, Docker, Vercel
+- **DevOps & Tools:** Git, Docker, Vercel, Cloudflare  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="hugging face logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="30" alt="cloudflare logo" />
 </div>
 
 ---
@@ -40,7 +54,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aee4&theme=dracula" height="150" alt="stats graph" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aee4&theme=dracula" height="150" alt="languages graph" />
 </div>
-
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aee4&theme=dracula" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aee4&theme=dracula&bg_color=282a36&hide_border=true" height="150" alt="activity graph" />
@@ -63,4 +76,4 @@
 
 ---
 
-🚀 **Let’s build something awesome together!** Connect with me via **[LinkedIn](https://www.linkedin.com/in/aee4)** or check out my **[GitHub](https://github.com/aee4)**.
+🚀 **Let's build something awesome together!** Connect with me via **[LinkedIn](https://www.linkedin.com/in/aee4)** or check out my **[GitHub](https://github.com/aee4)**.
